@@ -1,0 +1,41 @@
+/*
+* @Author: admin
+* @Date:   2018-10-15 20:02:50
+* @Last Modified by:   admin
+* @Last Modified time: 2018-10-18 20:01:53
+*/
+.nav1{
+	background-color: #fff;
+}
+.lf{
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	z-index: 200;
+	box-shadow: 0px 1px 9px -2px;
+}
+.nr4{
+	margin-top: 60px;
+	background-color: #f4f4f4;
+	padding-top: 90px;
+	padding-bottom: 90px;
+}
+.nr4 h3{
+	text-align: center;
+	margin-bottom: 10px;
+}
+.nr4 h6{
+	text-align: center;
+	color: #ccc;
+}
+.nr4 .tp{
+	height: 280px;
+	border: none;
+	margin-top: 20px;
+}
+.nr4 .tp img{
+	height: 100%;
+}
+.s4{
+	margin-top: 60px;
+}
